@@ -1,0 +1,53 @@
+- name: This personal website
+  description: My personal web portfolio. Soon planing to add personal blog also.
+  status: live
+  tags:
+    - GatsbyJS
+    - TailwindCSS
+    - Responsive Design
+    - Animations
+    - Clean design
+  icons:    
+    github: https://github.com/snakezord/personal-portefolio
+
+- name: Notify Client 
+  description: React App inspired by google keep. Completely built from scratch.
+  status: live
+  tags:
+    - React
+    - Styled Components
+    - React Router
+    - Redux
+    - Redux Middlewares
+    - React Hooks
+    - Drag and Drop
+    - REST API
+    - Fuzzy search
+    - Animations
+    - Responsive Design
+    - CSR
+  icons:
+    website: https://notify-298823.web.app
+    github: https://github.com/snakezord/Notify-Client
+  image: images/notify.png
+
+- name: Notify Server / API
+  url: ''
+  description: Rest ExpressJS API built with main purpose to test my Backend skills. Serving my Notify Client React APP.
+  status: live
+  tags:
+    - NodeJS
+    - ExpressJS
+    - REST API
+    - Middlewares (Express & MongoDB)
+    - Email & Password Authentication
+    - Google Authentication
+    - MongoDB / Mongoose
+    - Security
+    - Jest Unit Testing
+    - SendGrid email API
+    - Avatar Upload
+  icons:
+    website: https://notifyapi.herokuapp.com
+    github: https://github.com/snakezord/Notify-Server
+  image: images/rest.jpg

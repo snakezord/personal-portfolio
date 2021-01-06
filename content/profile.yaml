@@ -1,0 +1,37 @@
+- profile:
+  initials: RZ
+  name: Roman Zhydyk
+  email: f/xpzokwqo
+  profession: Software Developer
+  image: images/profile.jpg
+  location: Lisbon, Portugal
+  relocation: true
+  company: In search...
+  for_hire: true
+  focus: ReactJS
+  focus_url: https://reactjs.org
+  about: |
+    Focused and quick-learning Software Developer with entrepreneurial mindset. Experienced with the latest cutting edge development tools, procedures and practices. Equipped with a diverse and promising skill-set. 
+    Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. 
+    In this field you always learn, otherwise you'll stagnate. 
+    Love working out💪 , reading 📚 , good movies 🍿 and good food 🍣 .
+
+  skills:
+    - Web Development (Full Stack)    
+    - Adaptability
+    - Analytical Thinking
+    - Data Science
+  tools:
+    - ReactJS
+    - NodeJS
+    - SASS
+    - Databases
+    - Git
+    - Shell
+    - Cloud       
+    - more...
+  budget:
+    currency: $
+    min: 0
+    max: 30
+    default: 0
