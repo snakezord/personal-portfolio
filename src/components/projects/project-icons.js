@@ -1,7 +1,6 @@
 import React from "react";
 import ProjectIcon from "./project-icon";
 import { ProjectType } from "../../types";
-import ReactTooltip from "react-tooltip";
 
 const ProjectIcons = ({ icons }) => (
   <ul className={"float-right"}>
@@ -28,7 +27,6 @@ const ProjectIcons = ({ icons }) => (
             // Do not show a link when the url is falsy, e.g. if it's the empty string
             <ProjectIcon icon={icon} />
           )}
-          <ReactTooltip effect="solid" />
         </li>
       ))}
   </ul>

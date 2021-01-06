@@ -1,7 +1,6 @@
 import React from "react";
 import { FaCompass } from "react-icons/fa";
 import { shape, ProfileType } from "../../types";
-import ReactTooltip from "react-tooltip";
 
 const Summary = ({ profile }) => (
   <div className="flex pb-8">
@@ -37,7 +36,6 @@ const Summary = ({ profile }) => (
             >
               <FaCompass />
             </a>
-            <ReactTooltip effect="solid" />
           </div>
         )}
       </div>

@@ -1,6 +1,7 @@
 import { graphql } from "gatsby";
 import React from "react";
 import "../styles/style.css";
+import ReactTooltip from "react-tooltip";
 import CustomFonts from "../components/custom-fonts/custom-fonts";
 import Footer from "../components/footer/footer";
 import Header from "../components/header/header";
@@ -26,6 +27,15 @@ const IndexPage = ({ data }) => {
         height={"100vh"}
         params={CONFIG}
       />
+
+      <ReactTooltip
+        effect="solid"
+        place="top"
+        type="info"
+        backgroundColor="#101010E6"
+        className="z-100"
+      />
+
       <Header initials={profile.initials} />
 
       <div className="md:max-w-screen-sm lg:max-w-screen-xl mx-auto px-4 flex flex-wrap pt-4 my-8">

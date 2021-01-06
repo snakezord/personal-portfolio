@@ -1,7 +1,6 @@
 import React from "react";
 import SocialIcon from "./social-icon";
 import { SocialType, arrayOf, shape } from "../../types";
-import ReactTooltip from "react-tooltip";
 
 const SocialLinks = ({ social }) => {
   return (
@@ -22,7 +21,6 @@ const SocialLinks = ({ social }) => {
             >
               <SocialIcon name={name} className="w-6 h-6" />
             </a>
-            <ReactTooltip effect="solid" />
           </>
         );
       })}
