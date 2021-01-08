@@ -8,7 +8,7 @@
     - Animations
     - Clean design
   icons:    
-    github: https://github.com/snakezord/personal-portefolio
+    github: https://github.com/snakezord/personal-portfolio
 
 - name: Notify Client 
   description: React App inspired by google keep. Completely built from scratch.
