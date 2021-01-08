@@ -31,7 +31,13 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-plugin-react-svg",
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID || "none",
+      },
+    },
+    {
+      resolve: `gatsby-plugin-react-svg`,
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
