@@ -4,9 +4,13 @@
   tags:
     - GatsbyJS
     - TailwindCSS
+    - GraphQL
+    - SEO
+    - Google Analytics
     - Responsive Design
-    - Animations
     - Clean design
+    - Animations
+    - more...
   icons:    
     github: https://github.com/snakezord/personal-portfolio
 
@@ -23,9 +27,10 @@
     - Drag and Drop
     - REST API
     - Fuzzy search
-    - Animations
     - Responsive Design
+    - Animations
     - CSR
+    - more...
   icons:
     website: https://notify-298823.web.app
     github: https://github.com/snakezord/Notify-Client
@@ -36,9 +41,9 @@
   description: Rest ExpressJS API built with main purpose to test my Backend skills. Serving my Notify Client React APP.
   status: live
   tags:
+    - REST API
     - NodeJS
     - ExpressJS
-    - REST API
     - Middlewares (Express & MongoDB)
     - Email & Password Authentication
     - Google Authentication
@@ -47,6 +52,7 @@
     - Jest Unit Testing
     - SendGrid email API
     - Avatar Upload
+    - more...
   icons:
     website: https://notifyapi.herokuapp.com
     github: https://github.com/snakezord/Notify-Server
