@@ -15,7 +15,7 @@
     github: https://github.com/snakezord/personal-portfolio
 
 - name: Notify Client 
-  description: React App inspired by google keep. Completely built from scratch.
+  description: React App inspired by Google Keep. Completely built from scratch.
   status: live
   tags:
     - React

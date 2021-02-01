@@ -28,11 +28,11 @@
   tools:
     - ReactJS
     - NodeJS
-    - SASS
+    - CSS Preprocessors
     - Databases
     - Git
     - Shell
-    - Cloud       
+    - Cloud
     - more...
   budget:
     currency: $
