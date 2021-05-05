@@ -2,12 +2,12 @@
   initials: RZ
   name: Roman Zhydyk
   email: f/xpzokwqo
-  profession: Software Developer
+  profession: Software Engineer
   image: images/profile.jpg
-  location: Lisbon, Portugal
+  location: Algarve, Portugal
   relocation: true
-  company: In search...
-  for_hire: true
+  company: spicefactory.co
+  for_hire: false
   focus: ReactJS
   focus_url: https://reactjs.org
   about: |
@@ -21,7 +21,7 @@
 
 
   skills:
-    - Web Development (Full Stack)    
+    - Software Engineering (Full Stack)    
     - Adaptability
     - Analytical Thinking
     - Data Science
